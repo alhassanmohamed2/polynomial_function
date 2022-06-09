@@ -1,0 +1,4 @@
+put the java file in the path d:\f\
+download java jdk 7
+add the path of java jdk bin file in the enviroment variables -system variables - path
+open the program
